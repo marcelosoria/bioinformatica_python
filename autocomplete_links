@@ -1,0 +1,6 @@
+https://medium.com/@andrewong_27403/autocomplete-on-jupyterlab-0741fe45c62d
+https://github.com/jupyter-lsp/jupyterlab-lsp
+
+Comandos:
+conda install -c conda-forge jupyterlab-lsp
+conda install -c conda-forge python-lsp-server

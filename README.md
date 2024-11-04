@@ -1,0 +1,7 @@
+# Curso de introducción a la programación bioinformática con Python
+ 
+Cada vez es más frecuente que profesionales de la biología, medicina,agronomía, etc. tengan que analizar datos de secuencias de ácidos nucleicos, expresión génica o diversidad genética, entre otros. Tarde o temprano surge la necesidad de modificar o automatizar esas tareas bioinformáticas mediante programación. Hoy en día es frecuente que el primer contacto con la programación de computadoras sea a través de Python, un lenguaje relativamente fácil de aprender y adaptable para tareas científicas. 
+
+El objetivo de este curso es brindar una introducción práctica a la programación en bioinformática usando Python, especialmente mediante el uso de la biblioteca Biopython. En este github encontrarán los materiales y clases del curso. El ajuste final de los temas dependerá de los intereses de las/los inscriptas/os.
+
+Si bien el curso está dirigido a profesionales con poca experiencia previa en programación, se espera que los estudiantes conozcan lo esencial de Python. Cualquier curso introductorio sirve para satisfacer este requisito. Al terminar el curso los estudiantes tendrán las herramientas para adaptar o escribir scripts bioinformáticos en Python y tendrán los conocimientos para proceder con una formación más formal en programación.
